@@ -11,7 +11,8 @@ The system converts raw EEG → spectrograms → CNN prediction → real-time vi
 📦 Installation Instructions
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Real-Time-EEG-MI-Prediction-System.git
+git clone https://github.com/Shrikaran202005/Realtime-eeg-motor-imagery-prediction.git
+
 cd Real-Time-EEG-MI-Prediction-System
 
 2️⃣ Create a Virtual Environment
